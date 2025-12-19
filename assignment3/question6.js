@@ -7,4 +7,3 @@ const disneyData = {
 };
 
 // Write your code below
-a
