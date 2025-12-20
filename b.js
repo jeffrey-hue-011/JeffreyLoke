@@ -8,4 +8,4 @@ for(let i = 0; i < aaplDailyOHLC.length; i++) {
 	console.log("High: ",        aaplDailyOHLC[i][1])
 	console.log("Low: ",         aaplDailyOHLC[i][2])
 	console.log("Close: ",       aaplDailyOHLC[i][3])
-}
+}asdf
