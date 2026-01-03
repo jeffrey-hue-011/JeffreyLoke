@@ -20,4 +20,3 @@ for (let i = 0; i < disneyData.length; i++) {
 }
 let averageClose = totalClose / disneyData.length;
 console.log("Average closing price of Disney is " + (Math.round(averageClose * 100) / 100).toFixed(2));
-
