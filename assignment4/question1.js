@@ -8,3 +8,4 @@ for (let i = 1; i < amdPrices.length; i++) {
     }
 }
 console.log("AMD 52-week high is " + maxPrice);
+

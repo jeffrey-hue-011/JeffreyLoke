@@ -10,3 +10,4 @@ for (let i = 0; i < msftData.length; i++) {
 }
 let averageClose = totalClose / msftData.length;
 console.log("Average closing price of MSFT is " + averageClose.toFixed(2));
+
